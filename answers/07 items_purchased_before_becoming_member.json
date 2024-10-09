@@ -1,0 +1,17 @@
+[
+  {
+    "customer_id": "A",
+    "order_date": "2021-01-01",
+    "product_name": "sushi"
+  },
+  {
+    "customer_id": "A",
+    "order_date": "2021-01-01",
+    "product_name": "curry"
+  },
+  {
+    "customer_id": "B",
+    "order_date": "2021-01-04",
+    "product_name": "sushi"
+  }
+]

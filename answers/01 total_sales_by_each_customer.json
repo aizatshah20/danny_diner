@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "B",
+    "total_spent": "74"
+  },
+  {
+    "customer_id": "C",
+    "total_spent": "24"
+  },
+  {
+    "customer_id": "A",
+    "total_spent": "64"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "customer_id": "A",
+    "total_items": "2",
+    "total_amount_spent": "25"
+  },
+  {
+    "customer_id": "B",
+    "total_items": "3",
+    "total_amount_spent": "40"
+  }
+]

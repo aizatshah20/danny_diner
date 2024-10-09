@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "B",
+    "total_points": "940"
+  },
+  {
+    "customer_id": "A",
+    "total_points": "740"
+  },
+  {
+    "customer_id": "C",
+    "total_points": "240"
+  }
+]

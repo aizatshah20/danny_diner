@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "A",
+    "days_visited": "4"
+  },
+  {
+    "customer_id": "B",
+    "days_visited": "6"
+  },
+  {
+    "customer_id": "C",
+    "days_visited": "2"
+  }
+]
